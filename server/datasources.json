@@ -6,8 +6,8 @@
   "mysqlDs": {
     "host": "localhost",
     "port": 3306,
-    "database": "coffee_shops",
-    "password": "JesusInMe",
+    "database": "",
+    "password": "",
     "name": "mysqlDs",
     "user": "root",
     "connector": "mysql"
