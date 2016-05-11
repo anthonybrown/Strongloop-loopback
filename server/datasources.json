@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "mysql"
+  },
+  "mysqlDs": {
+    "host": "localhost",
+    "port": 3306,
+    "database": "coffee_shops",
+    "password": "JesusInMe",
+    "name": "mysqlDs",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
